@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshamehta06&label=Profile%20views&color=0e75b6&style=flat" alt="mokshamehta06" /> </p>
 
-- 🌱 I’m currently learning **BTECH**
+- 🌱 I’m currently Pursuing **BTECH**
 
 - 📫 How to reach me **mokshamehta71076@gmail.com**
 
