@@ -1,39 +1,118 @@
-## Hi there 👋
+# 👋 Hello, I'm Moksha Mehta
 
-<h1 align="center">Hi 👋, I'm Moksha Mehta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+Tech+Enthusiast;Passionate+about+Innovation;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshamehta06&label=Profile%20views&color=0e75b6&style=flat" alt="mokshamehta06" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=mokshamehta06&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moksha-mehta)
 
-- 🌱 I’m currently Pursuing **BTECH**
+</div>
 
-- 📫 How to reach me **mokshamehta71076@gmail.com**
+---
 
-- ⚡ Fun fact **"My friends call me the 'Conversation Queen' – I love connecting with people!"**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a passionate **Software Developer** from India, currently pursuing my **B.Tech** degree. I love building innovative solutions and connecting with people who share the same passion for technology. My friends call me the "Conversation Queen" because I genuinely enjoy meaningful conversations and collaborations!
+
+- 🎓 **Currently:** Pursuing Bachelor of Technology (B.Tech)
+- 💻 **Focus:** Full-stack development and modern web technologies
+- 🌱 **Learning:** Advanced software development practices and emerging technologies
+- 💡 **Interests:** Problem-solving, UI/UX design, and cloud technologies
+- 🤝 **Open to:** Collaborations, internships, and exciting projects
+- 📧 **Contact:** [mokshamehta71076@gmail.com](mailto:mokshamehta71076@gmail.com)
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **Programming Languages**
 <p align="left">
-<a href="https://linkedin.com/in/moksha mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moksha mehta" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### **Web Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshamehta06&show_icons=true&locale=en&layout=compact" alt="mokshamehta06" /></p>
+### **Design & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokshamehta06&" alt="mokshamehta06" /></p>
+### **Cloud & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+</p>
 
-<!--
-**mokshamehta06/mokshamehta06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokshamehta06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshamehta06&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokshamehta06&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+*Coming Soon! I'm currently working on some exciting projects that I'll showcase here.*
+
+<!-- 
+### 🌟 Project Name
+Brief description of your project
+- **Tech Stack:** List technologies used
+- **Features:** Key features
+- **Links:** [Live Demo](link) | [Repository](link)
 -->
+
+---
+
+## 🎓 Education & Experience
+
+### 🎓 **Education**
+- **Bachelor of Technology (B.Tech)** - *Currently Pursuing*
+  - Focus on Software Development and Computer Science fundamentals
+
+### 💼 **Experience**
+- Open to internships and entry-level opportunities
+- Actively building projects and contributing to open source
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moksha-mehta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokshamehta71076@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat! 😊**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
