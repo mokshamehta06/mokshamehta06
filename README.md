@@ -15,12 +15,15 @@
 
 I'm a passionate **Software Developer** from India, currently pursuing my **B.Tech** degree. I love building innovative solutions and connecting with people who share the same passion for technology. My friends call me the "Conversation Queen" because I genuinely enjoy meaningful conversations and collaborations!
 
-- 🎓 **Currently:** Pursuing Bachelor of Technology (B.Tech)
-- 💻 **Focus:** Full-stack development and modern web technologies
-- 🌱 **Learning:** Advanced software development practices and emerging technologies
-- 💡 **Interests:** Problem-solving, UI/UX design, and cloud technologies
-- 🤝 **Open to:** Collaborations, internships, and exciting projects
-- 📧 **Contact:** [mokshamehta71076@gmail.com](mailto:mokshamehta71076@gmail.com)
+- 🔭 **Currently working on:** Building innovative web applications and expanding my technical skills
+- 🌱 **Currently learning:** Advanced JavaScript frameworks, cloud technologies, and modern development practices
+- 🎓 **Education:** Pursuing Bachelor of Technology (B.Tech)
+- � **Looking to collaborate on:** Open source projects, web development, and innovative tech solutions
+- � **Looking for help with:** Advanced backend development and system design
+- 💬 **Ask me about:** Web development, UI/UX design, C/C++, or anything tech-related!
+- � **How to reach me:** [mokshamehta71076@gmail.com](mailto:mokshamehta71076@gmail.com)
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** "My friends call me the 'Conversation Queen' – I love connecting with people!"
 
 ---
 
